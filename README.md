@@ -1,4 +1,4 @@
-# 2-_SoftwareProject
+# 2-SoftwareProject
 软件工程课程小组大作业
 
 ## 目录说明
